@@ -1,2 +1,7 @@
-# Taller3-ComputacionCuantica
-Taller 3 Computación Cuántica Universidad EAFIT
+# Taller 3 Computación Cuántica Universidad EAFIT
+### Esteban Álvarez Zuluaga
+
+---
+## Descripción
+## Instalación
+## Ejecución
